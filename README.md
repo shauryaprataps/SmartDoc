@@ -1,4 +1,4 @@
-# DocExpiry
+# SmartDoc
 🚀 Features
 
 Add and manage documents with name, number, issue date, and expiry date
