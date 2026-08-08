@@ -17,6 +17,6 @@ Responsive frontend built with React.js, Tailwind CSS, and JavaScript
 
 Frontend: React.js, Tailwind CSS, JavaScript, HTML
 
-Backend (optional): Node.js + Express / Firebase (for storage)
+Backend: Node.js + Express / Firebase (for storage)
 
-Database (optional): MongoDB / Firestore / LocalStorage
+Database: MongoDB / Firestore / LocalStorage
