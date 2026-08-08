@@ -19,4 +19,4 @@ Frontend: React.js, Tailwind CSS, JavaScript, HTML
 
 Backend: Node.js + Express / Firebase (for storage)
 
-Database: MongoDB / Firestore / LocalStorage
+Database: AWS
